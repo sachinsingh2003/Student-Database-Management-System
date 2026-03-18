@@ -1,0 +1,5 @@
+4     mohit     67.000000
+2     gaurav     45.000000
+1     sachin     56.000000
+3     nisnht     87.000000
+5     abhishek     99.000000
